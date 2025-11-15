@@ -1,0 +1,1 @@
+Provider Name=SQL Server;Data Source=.\CAPIXABA;Initial Catalog=SERVSIC2;User ID=sa;Password=123;Login Prompt=False
